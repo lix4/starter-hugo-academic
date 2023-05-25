@@ -36,7 +36,7 @@ education:
     - course: PhD in Computer Science
       institution: University of Utah
       year: 2025 
-    - course: MEng in Computer Science
+    - course: MSc in Computer Science
       institution: Washington University in St.Louis
       year: 2020
     - course: BSc in Computer Science
@@ -50,7 +50,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: 'mailto:xiwen.li@utah.edu'
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
@@ -80,5 +80,5 @@ email: 'xiwen.li@utah.edu'
 highlight_name: true
 ---
 
-I am a first-year Computer Science Ph.D. student at University of Utah. I am advised by Dr. Ross Whitaker. My current reseach topic is building intelligent transportation system with audio and visual information.
+I am a third-year Computer Science Ph.D. student at University of Utah. I am advised by Dr. Ross Whitaker. My current reseach topic is building intelligent transportation system with audio and visual information.
 {style="text-align: justify;"}
